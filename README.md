@@ -1,6 +1,6 @@
 # gitbook使用心得
 ## 常规使用方法
-  1.查看node版本
+  1.查看node版本  
   node -v
   2.安装命令行工具
   npm install gitbook-cli -g
@@ -21,7 +21,7 @@
       }
       
      
-    其中，styles中website.css文件内容自行写，参考：
+  其中，styles中website.css文件内容自行写，参考：
       
       .book .book-body .page-wrapper .page-inner{
           max-width:80% !important;
