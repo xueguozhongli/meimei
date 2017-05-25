@@ -12,7 +12,7 @@
   gitbook serve
 
 ##坑
-  坑1. gitbook语法使用了markdown，图片写法 ![img](图片路径)，此处图片路径有坑。
+  坑1. gitbook语法使用了markdown，图片写法 ！【img】(图片路径)，此处是英文标点，就在这儿图片路径有坑。
       使用最新的gitbook（v3.2.2），本地图片console报错 ，外链图片没事儿，难道还要我找个图床把图片都上传上去吗，真心崩溃~~~~
   坑2. 默认的gitbook生成文件会有facebook等并不需要的模块，可配置book.json文件，
       
